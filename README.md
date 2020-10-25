@@ -1,2 +1,2 @@
-# golangWorkspace1
-my first workspace for golang
+# webScrapeProject
+web scraper project in go
