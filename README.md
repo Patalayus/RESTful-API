@@ -1,2 +1,2 @@
 # webScrapeProject
-web scraper project in go
+web scraper project
